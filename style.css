@@ -14,7 +14,7 @@ body{
 .banner{
     width:100%;
     height:100%;
-    background-image: linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.75)), url("../Portfolio/2.jpg");
+    background-image: linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.75)), url("https://github.com/ArpitaMallik/Portfolio/blob/main/2.jpg?raw=true");
     background-size: cover;
     background-position:center;
     background-attachment: fixed;
